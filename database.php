@@ -2,7 +2,7 @@
 
     $hostname = "localhost";
     $dbUser = "dfoiwidm_alonews";
-    $dbpassword = "Alonenews12345";
+    $dbpassword = "Alonenews123";
     $dbName = "dfoiwidm_alonews";
     $conn = mysqli_connect($hostname, $dbUser, $dbpassword, $dbName);
 
