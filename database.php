@@ -1,6 +1,6 @@
 <?php
 
-    $hostname = "dfoiwidm";
+    $hostname = "localhost";
     $dbUser = "dfoiwidm_alonews";
     $dbpassword = "Alonews12345";
     $dbName = "dfoiwidm_alonews";
